@@ -1,5 +1,13 @@
-#title {
+h1 {
   color:blue;
+  font-size: 24px;
 }
 
-.body 
+.heading {
+  background-color:aquamarine;
+  border: 1px solid black
+}
+
+.cuerpo{
+  background-color:aquamarine;
+}
