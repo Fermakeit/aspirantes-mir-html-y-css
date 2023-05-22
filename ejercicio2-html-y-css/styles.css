@@ -1,0 +1,40 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-position: center center;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+}
+
+.entrada{
+    padding: 7px;
+    width: 100%;
+}
+
+.boton{
+    padding: 5px 15px 5px 15px;
+    width: 100%;
+    font-size: 12px;
+    box-shadow: 0 0 3px 0 black(0, 0, 0, .2);
+}
+
+.form-login {
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px 15px black;
+    background-image: linear-gradient(#bd09b7,  #6b4cf5);
+    color: white;
+    border-radius: 20px;
+}
+
+@media (min-width: 500px) {
+    .form-login{
+        margin: 0 auto;
+        box-shadow: black;
+    }
+
+}
+
